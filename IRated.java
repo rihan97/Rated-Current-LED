@@ -1,4 +1,4 @@
-package uk.ac.mmu.cnt.one;
+package uk.ac.one;
 
 	import java.io.BufferedReader;
 	import java.io.IOException;
