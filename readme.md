@@ -10,5 +10,5 @@ The Rated current calculator program was developed to calculate the current of a
 | 5v             | 2v                     | 20.5mA         | 4.9 Rated current        |
 
 
-Feel free to use your own test data to have a go at calculating the supply voltage.
+Feel free to use your own test data to have a go at calculating the Rated Current.
 
